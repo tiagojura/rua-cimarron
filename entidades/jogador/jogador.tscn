@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://cyiw7x80avafr"]
 
 [ext_resource type="Texture2D" uid="uid://03nulsy55y8y" path="res://assets/thelazystone/personagens/idle/player_idle_down_sheet.png" id="1_3wtus"]
+[ext_resource type="Script" uid="uid://cocphqdfinp6i" path="res://entidades/jogador/jogador.gd" id="1_5uhyh"]
 [ext_resource type="Texture2D" uid="uid://ce5luewf7c4jp" path="res://assets/thelazystone/personagens/idle/player_idle_left_sheet.png" id="2_5uhyh"]
 [ext_resource type="Texture2D" uid="uid://bo4pdiovft2bw" path="res://assets/thelazystone/personagens/idle/player_idle_right_sheet.png" id="3_7swvq"]
 [ext_resource type="Texture2D" uid="uid://b73s6orj04n4l" path="res://assets/thelazystone/personagens/idle/player_idle_up_sheet.png" id="4_sojd3"]
@@ -392,10 +393,11 @@ animations = [{
 size = Vector2(10, 3)
 
 [node name="Jogador" type="CharacterBody2D" unique_id=671280142]
+script = ExtResource("1_5uhyh")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=215725398]
 sprite_frames = SubResource("SpriteFrames_2bgwa")
-animation = &"run_right"
+animation = &"run_up"
 autoplay = "idle_down"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=655721149]
