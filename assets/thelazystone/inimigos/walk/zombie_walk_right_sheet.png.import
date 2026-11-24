@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da54050emsu3i"
-path="res://.godot/imported/lixeira_caida.png-31f25cbae292fdab9d329330a8d56442.ctex"
+uid="uid://drgh8bc50hjko"
+path="res://.godot/imported/zombie_walk_right_sheet.png-4555a36e38b50a85e106d0efea897d7e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/tiles/lixeira_caida.png"
-dest_files=["res://.godot/imported/lixeira_caida.png-31f25cbae292fdab9d329330a8d56442.ctex"]
+source_file="res://assets/thelazystone/inimigos/walk/zombie_walk_right_sheet.png"
+dest_files=["res://.godot/imported/zombie_walk_right_sheet.png-4555a36e38b50a85e106d0efea897d7e.ctex"]
 
 [params]
 

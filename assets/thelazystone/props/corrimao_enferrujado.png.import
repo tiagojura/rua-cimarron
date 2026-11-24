@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyf0j8gwhdv8v"
-path="res://.godot/imported/pallet_deitado.png-83296d1727f7b6b6d9d795540246359f.ctex"
+uid="uid://cusikfnhnt7rc"
+path="res://.godot/imported/corrimao_enferrujado.png-c6be62964d43e71d9aeefaad55f9c0a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/tiles/pallet_deitado.png"
-dest_files=["res://.godot/imported/pallet_deitado.png-83296d1727f7b6b6d9d795540246359f.ctex"]
+source_file="res://assets/thelazystone/props/corrimao_enferrujado.png"
+dest_files=["res://.godot/imported/corrimao_enferrujado.png-c6be62964d43e71d9aeefaad55f9c0a0.ctex"]
 
 [params]
 

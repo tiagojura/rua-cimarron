@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://caek81etjcq1r"
-path="res://.godot/imported/tijolo_preto_tileset.png-c643f3997a95764ee8916de08b532337.ctex"
+uid="uid://b00kms7yiioni"
+path="res://.godot/imported/muralha_tileset.png-d13dc06795f3f3864cf4a490106549b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/props/tijolo_preto_tileset.png"
-dest_files=["res://.godot/imported/tijolo_preto_tileset.png-c643f3997a95764ee8916de08b532337.ctex"]
+source_file="res://assets/thelazystone/tiles/muralha_tileset.png"
+dest_files=["res://.godot/imported/muralha_tileset.png-d13dc06795f3f3864cf4a490106549b9.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://di64bln2hxuod"
-path="res://.godot/imported/banco_de_madeira_lado.png-2c049378a52f7d79b98991ee08b504c6.ctex"
+uid="uid://cqmjv7kwoycj2"
+path="res://.godot/imported/player_death_left_sheet.png-f331150564013e0742cbdb479ae567cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/tiles/banco_de_madeira_lado.png"
-dest_files=["res://.godot/imported/banco_de_madeira_lado.png-2c049378a52f7d79b98991ee08b504c6.ctex"]
+source_file="res://assets/thelazystone/personagens/death/player_death_left_sheet.png"
+dest_files=["res://.godot/imported/player_death_left_sheet.png-f331150564013e0742cbdb479ae567cb.ctex"]
 
 [params]
 

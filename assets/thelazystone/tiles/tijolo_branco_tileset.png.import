@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dxcovgs6e2d8p"
-path="res://.godot/imported/lixeira_deitada.png-fbfdee04c5209bf28d96ff160cc4d8c9.ctex"
+uid="uid://c7yph7emd6dqs"
+path="res://.godot/imported/tijolo_branco_tileset.png-523050030a6d3e001c139e4867e3ba3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/tiles/lixeira_deitada.png"
-dest_files=["res://.godot/imported/lixeira_deitada.png-fbfdee04c5209bf28d96ff160cc4d8c9.ctex"]
+source_file="res://assets/thelazystone/tiles/tijolo_branco_tileset.png"
+dest_files=["res://.godot/imported/tijolo_branco_tileset.png-523050030a6d3e001c139e4867e3ba3e.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://w3epukdkmsne"
-path="res://.godot/imported/player_run_side_sheet.png-687092cd7e7d06e95c0bdc124772af94.ctex"
+uid="uid://brjl0gi0xpa00"
+path="res://.godot/imported/banco_de_madeira_costa.png-4da71d9bbebda669ee1d81d77e9f35e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/personagens/run/player_run_side_sheet.png"
-dest_files=["res://.godot/imported/player_run_side_sheet.png-687092cd7e7d06e95c0bdc124772af94.ctex"]
+source_file="res://assets/thelazystone/props/banco_de_madeira_costa.png"
+dest_files=["res://.godot/imported/banco_de_madeira_costa.png-4da71d9bbebda669ee1d81d77e9f35e6.ctex"]
 
 [params]
 

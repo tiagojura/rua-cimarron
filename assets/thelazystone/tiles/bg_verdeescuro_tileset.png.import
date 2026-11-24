@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyhghchbirpc1"
-path="res://.godot/imported/cone.png-303a625106138d10dec4813264f02a1d.ctex"
+uid="uid://b7c6s6tw4cowg"
+path="res://.godot/imported/bg_verdeescuro_tileset.png-ff12b9ca44c92d47ab0c2580207dd6dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/tiles/cone.png"
-dest_files=["res://.godot/imported/cone.png-303a625106138d10dec4813264f02a1d.ctex"]
+source_file="res://assets/thelazystone/tiles/bg_verdeescuro_tileset.png"
+dest_files=["res://.godot/imported/bg_verdeescuro_tileset.png-ff12b9ca44c92d47ab0c2580207dd6dc.ctex"]
 
 [params]
 

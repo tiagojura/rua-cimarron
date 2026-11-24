@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://brjj2458a18y7"
-path="res://.godot/imported/bg_verdeclaro_tileset.png-636279b4ac4d5a94188fa93d8b9e4a56.ctex"
+uid="uid://w3epukdkmsne"
+path="res://.godot/imported/player_run_right_sheet.png-edd3b3d91a71fe21e8b0a152517bbac3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/props/bg_verdeclaro_tileset.png"
-dest_files=["res://.godot/imported/bg_verdeclaro_tileset.png-636279b4ac4d5a94188fa93d8b9e4a56.ctex"]
+source_file="res://assets/thelazystone/personagens/run/player_run_right_sheet.png"
+dest_files=["res://.godot/imported/player_run_right_sheet.png-edd3b3d91a71fe21e8b0a152517bbac3.ctex"]
 
 [params]
 

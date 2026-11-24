@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://018uivauwthf"
-path="res://.godot/imported/player_side_death_sheet.png-354bb0fa6bbbbf9635603f16c23442ee.ctex"
+uid="uid://bk4hfioapth5m"
+path="res://.godot/imported/tijolo_bege_tileset.png-667e483c5b7e972468ca25fb421c2fcd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/personagens/death/player_side_death_sheet.png"
-dest_files=["res://.godot/imported/player_side_death_sheet.png-354bb0fa6bbbbf9635603f16c23442ee.ctex"]
+source_file="res://assets/thelazystone/tiles/tijolo_bege_tileset.png"
+dest_files=["res://.godot/imported/tijolo_bege_tileset.png-667e483c5b7e972468ca25fb421c2fcd.ctex"]
 
 [params]
 

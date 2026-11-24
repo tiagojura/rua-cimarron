@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dg7bs50l0d32"
-path="res://.godot/imported/pallet_pe.png-6110a9f584c8c7fca950abd5351b8f1e.ctex"
+uid="uid://bx34hvrjh4wb7"
+path="res://.godot/imported/zombie_idle_right_sheet.png-2d09f2a5f82a122d95b5548bd1aca837.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/tiles/pallet_pe.png"
-dest_files=["res://.godot/imported/pallet_pe.png-6110a9f584c8c7fca950abd5351b8f1e.ctex"]
+source_file="res://assets/thelazystone/inimigos/idle/zombie_idle_right_sheet.png"
+dest_files=["res://.godot/imported/zombie_idle_right_sheet.png-2d09f2a5f82a122d95b5548bd1aca837.ctex"]
 
 [params]
 

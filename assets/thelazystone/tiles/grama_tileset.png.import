@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bk4hfioapth5m"
-path="res://.godot/imported/tijolo_bege_tileset.png-7da7d22148e1bbac70d13f638f23aedc.ctex"
+uid="uid://cjdq2yuumf8ak"
+path="res://.godot/imported/grama_tileset.png-ed652a6eb60e6526d59678050032e47c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/props/tijolo_bege_tileset.png"
-dest_files=["res://.godot/imported/tijolo_bege_tileset.png-7da7d22148e1bbac70d13f638f23aedc.ctex"]
+source_file="res://assets/thelazystone/tiles/grama_tileset.png"
+dest_files=["res://.godot/imported/grama_tileset.png-ed652a6eb60e6526d59678050032e47c.ctex"]
 
 [params]
 

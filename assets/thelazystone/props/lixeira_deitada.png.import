@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b00kms7yiioni"
-path="res://.godot/imported/muralha_tileset.png-b35c17268afe3dacfc60d013568c35ea.ctex"
+uid="uid://dxcovgs6e2d8p"
+path="res://.godot/imported/lixeira_deitada.png-8ff6151e63342bc3ebd6fdbf49f58fe0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/props/muralha_tileset.png"
-dest_files=["res://.godot/imported/muralha_tileset.png-b35c17268afe3dacfc60d013568c35ea.ctex"]
+source_file="res://assets/thelazystone/props/lixeira_deitada.png"
+dest_files=["res://.godot/imported/lixeira_deitada.png-8ff6151e63342bc3ebd6fdbf49f58fe0.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cdsj8vojqtcc4"
-path="res://.godot/imported/banco_de_madeira_frente.png-e4248425f81dc1fe16a75b2522822201.ctex"
+uid="uid://bo4pdiovft2bw"
+path="res://.godot/imported/player_idle_right_sheet.png-6b42e6e22a4710076f3bd32abc789671.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/tiles/banco_de_madeira_frente.png"
-dest_files=["res://.godot/imported/banco_de_madeira_frente.png-e4248425f81dc1fe16a75b2522822201.ctex"]
+source_file="res://assets/thelazystone/personagens/idle/player_idle_right_sheet.png"
+dest_files=["res://.godot/imported/player_idle_right_sheet.png-6b42e6e22a4710076f3bd32abc789671.ctex"]
 
 [params]
 

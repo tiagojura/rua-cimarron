@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cjdq2yuumf8ak"
-path="res://.godot/imported/grama_tileset.png-364c4729f89490795da995149f8df99c.ctex"
+uid="uid://ccse2ior31rau"
+path="res://.godot/imported/bg_amarelo_tileset.png-cbb652e84d120106f989cd0eb8d508e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/props/grama_tileset.png"
-dest_files=["res://.godot/imported/grama_tileset.png-364c4729f89490795da995149f8df99c.ctex"]
+source_file="res://assets/thelazystone/tiles/bg_amarelo_tileset.png"
+dest_files=["res://.godot/imported/bg_amarelo_tileset.png-cbb652e84d120106f989cd0eb8d508e6.ctex"]
 
 [params]
 

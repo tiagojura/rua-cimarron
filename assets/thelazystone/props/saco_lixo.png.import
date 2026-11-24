@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccse2ior31rau"
-path="res://.godot/imported/bg_amarelo_tileset.png-5a5ab0b50583df72d3596f792b596a63.ctex"
+uid="uid://dj0mx3lp4g1lx"
+path="res://.godot/imported/saco_lixo.png-8c4e212761bf8e1408837dd6c89727b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/props/bg_amarelo_tileset.png"
-dest_files=["res://.godot/imported/bg_amarelo_tileset.png-5a5ab0b50583df72d3596f792b596a63.ctex"]
+source_file="res://assets/thelazystone/props/saco_lixo.png"
+dest_files=["res://.godot/imported/saco_lixo.png-8c4e212761bf8e1408837dd6c89727b6.ctex"]
 
 [params]
 

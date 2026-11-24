@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7c6s6tw4cowg"
-path="res://.godot/imported/bs_verdeescuro_tileset.png-a713a21f2c4772b9f0d97f65de2714cb.ctex"
+uid="uid://dg7bs50l0d32"
+path="res://.godot/imported/pallet_pe.png-4d7c5c72cfb9cd3e4778a1ce414f98d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/props/bs_verdeescuro_tileset.png"
-dest_files=["res://.godot/imported/bs_verdeescuro_tileset.png-a713a21f2c4772b9f0d97f65de2714cb.ctex"]
+source_file="res://assets/thelazystone/props/pallet_pe.png"
+dest_files=["res://.godot/imported/pallet_pe.png-4d7c5c72cfb9cd3e4778a1ce414f98d8.ctex"]
 
 [params]
 

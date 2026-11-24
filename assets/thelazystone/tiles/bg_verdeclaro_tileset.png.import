@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bx34hvrjh4wb7"
-path="res://.godot/imported/zombie_idle_side_sheet.png-4f93c8e3305b32efeb43662f699c45a4.ctex"
+uid="uid://brjj2458a18y7"
+path="res://.godot/imported/bg_verdeclaro_tileset.png-cb343e52f108fe26be845c5828b97ee7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/thelazystone/inimigos/idle/zombie_idle_side_sheet.png"
-dest_files=["res://.godot/imported/zombie_idle_side_sheet.png-4f93c8e3305b32efeb43662f699c45a4.ctex"]
+source_file="res://assets/thelazystone/tiles/bg_verdeclaro_tileset.png"
+dest_files=["res://.godot/imported/bg_verdeclaro_tileset.png-cb343e52f108fe26be845c5828b97ee7.ctex"]
 
 [params]
 
